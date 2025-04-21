@@ -1,0 +1,4 @@
+ad = input("adınızı girin")
+soyad = input("soyadınızı girin")
+print({ad[0].upper()})
+print({soyad[0].upper()})
