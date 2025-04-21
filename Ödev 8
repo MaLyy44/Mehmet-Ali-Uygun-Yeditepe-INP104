@@ -1,0 +1,3 @@
+sozcuk = input("Bir sözcük girin")
+harf = input("Bir harf girin")
+print(sozcuk.count(harf))
