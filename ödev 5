@@ -1,0 +1,5 @@
+sozcuk = str(input("Bir sözcük girin: "))
+sayi = int(input("Bir sayi girin: "))
+
+print{sozcuk[:sayi-1]}
+print{sozcuk[sayi:]}
